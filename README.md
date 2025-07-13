@@ -10,7 +10,7 @@ In today's lab, you'll only work with and edit one main Python file and 3 templa
  
 
 
-### First things first, create a structured Flask App folder
+### First things first, create a structured Flask App folder (reference the slides)
 
 ## Part 1: Home
 1. Create your first app route and link it to `home.html` in `app.py`. 
