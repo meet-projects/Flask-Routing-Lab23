@@ -10,7 +10,7 @@ In today's lab, you'll only work with and edit one main Python file and 3 templa
  
 
 
-### First things first, *fork* this repo(sitory) and *clone* it to your desktop!
+### First things first, create a structured Flask App folder
 
 ## Part 1: Home
 1. Create your first app route and link it to `home.html` in `app.py`. 
