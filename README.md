@@ -10,7 +10,7 @@ In today's lab, you'll only work with and edit one main Python file and 3 templa
  
 
 
-### Before we start, make sure to download the [zip file]([url](https://drive.google.com/file/d/1ZQyJqusIpa0ZJ20rLJppTPkg9VW43fkO/view?usp=sharing)) and export it to sublime
+### Before we start, make sure to download the [zip file]([url](https://drive.google.com/file/d/1ZQyJqusIpa0ZJ20rLJppTPkg9VW43fkO/view)) and export it to sublime
 
 ## Part 1: Home
 1. Create your first app route and link it to `home.html` in `app.py`. 
