@@ -10,7 +10,7 @@ In today's lab, you'll only work with and edit one main Python file and 3 templa
  
 
 
-### Before we start, make sure to fork the repo, and clone the code to your machine
+### Before we start, make sure to download the [zip file]([url](https://drive.google.com/file/d/1ZQyJqusIpa0ZJ20rLJppTPkg9VW43fkO/view?usp=sharing)) and export it to sublime
 
 ## Part 1: Home
 1. Create your first app route and link it to `home.html` in `app.py`. 
@@ -46,7 +46,14 @@ In today's lab, you'll only work with and edit one main Python file and 3 templa
     - Try to make it as much similar as possible to this:
     <img src="https://github.com/meet-projects/Y2-Summer-Labs/blob/master/0.5%20Flask%20Routing/ebayCart.png" width="700">
 
+If you have extra time, continue to the **Bonus Problems** *below*. <br>
+If not, make sure you submit your code here.
+
+
 ### Bonus:
 - Add a navigation bar to all pages - and link all tabs. (if you haven't yet)
 - Add a carousel in your homepage.
 - Complete all of your pages designs, fill in the gaps of what's missing!
+
+
+### make sure you submit your code here.
