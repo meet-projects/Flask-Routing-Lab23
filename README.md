@@ -47,7 +47,7 @@ In today's lab, you'll only work with and edit one main Python file and 3 templa
     <img src="https://github.com/meet-projects/Y2-Summer-Labs/blob/master/0.5%20Flask%20Routing/ebayCart.png" width="700">
 
 If you have extra time, continue to the **Bonus Problems** *below*. <br>
-If not, make sure you submit your code here.
+If not, make sure you submit your code [here](https://forms.gle/YtwbV4PpPNWpzL1D7).
 
 
 ### Bonus:
@@ -56,4 +56,4 @@ If not, make sure you submit your code here.
 - Complete all of your pages designs, fill in the gaps of what's missing!
 
 
-### make sure you submit your code here.
+### make sure you submit your code [here](https://forms.gle/YtwbV4PpPNWpzL1D7).
